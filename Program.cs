@@ -33,7 +33,7 @@ class Program // This is learning the basics of how any c# program starts
         Console.WriteLine("First letter of your name is " + firstLetter); // This tells them the first letter
         Console.WriteLine("Your name in full uppercase is " + name.ToUpper()); // This shows them the full name with uppercase letters only
         Console.WriteLine("Your username would be " + userName); // This shows them the potentional username
-
+        Console.WriteLine("Press any key to exit.");
         Console.ReadKey();
     }
 }
