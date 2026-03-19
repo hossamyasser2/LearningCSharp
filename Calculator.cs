@@ -8,7 +8,6 @@ class Program
         Console.WriteLine(" This is a Calculator program");
         Console.WriteLine("-------------------------------");
         Console.WriteLine("What calculation would you like to do?");
-        bool isTrue = true;
         string operation;
         double firstNumber = 0;
         double secondNumber = 0;
